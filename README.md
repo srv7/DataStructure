@@ -1,6 +1,6 @@
 # DataStructure
 - Stack
-  - array 
+  - array  
   -LinkedList
 - Queue
 - Priority Queue
