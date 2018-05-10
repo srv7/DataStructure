@@ -1,7 +1,7 @@
 # DataStructure
 - Stack
-  - array  
-  -LinkedList
+  - array
+  - LinkedList
 - Queue
 - Priority Queue
 - Cirlular Buffer
